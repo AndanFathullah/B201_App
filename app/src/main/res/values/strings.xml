@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">B201 App</string>
+    <string name="logo">logolab</string>
+    <string name="version">V 1.0</string>
+    <string name="helloaslab">Hello Aslab!</string>
+    <string name="nama_lab">Nama Lab</string>
+    <string name="login">LOGIN</string>
+    <string name="gelb">gelb</string>
+    <string name="gela">gela</string>
+</resources>
